@@ -12,6 +12,8 @@ var nib = require("nib");
 var gutil = require("gulp-util");
 var notify = require("gulp-notify");
 var htmlhint = require("gulp-htmlhint");
+var replace = require("gulp-replace-async")
+var axios = require("axios")
 
 gulp.task('server', function() {
     browserSync.init({
@@ -72,6 +74,7 @@ gulp.task("css", function() {
 
 gulp.task("html", function () {
     gulp.src("*.html")
+    .pipe(replace('CONTENT', getContent))
     .pipe(htmlhint())
     .pipe(htmlhint.failReporter())
     .on('error', notify.onError(function(err) {
@@ -87,12 +90,28 @@ gulp.task("img", function () {
     .pipe(browserSync.stream());
 });
 
-gulp.task("build", [ "js", "css", "html", "img"]);
+gulp.task("static", function () {
+    gulp.src("static/*")
+    .pipe(gulp.dest("build/"))
+    .pipe(browserSync.stream());
+});
+
+gulp.task("build", [ "js", "css", "html", "img", "static"]);
 
 gulp.task("watch", ["build", "js:watch"], function () {
     gulp.watch("*.html", ["html"]);
     gulp.watch("img/**", ["img"]);
     gulp.watch("css/*.styl", ["css"]);
 });
+
+
+function getContent(match, callback) {
+    let url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTMmN3WbGfyzoypb_SZtO9F5OIaU0mznMAjupEpLzabFYDiVRs6OFF_9MYLqSSQfi9AdQXEgYwobF_c/pub?output=csv"
+    return axios.get(url)
+    .then(response => {
+        let text = response.data.slice(1, -1).trim().replace(/\n/g, "<br>");
+        callback(null, text)
+    }, callback)
+}
 
 gulp.task("default", ["build", "server", "watch"]);
