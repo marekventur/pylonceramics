@@ -1,0 +1,149 @@
+
+section {
+  max-width: 80rem;
+  padding: 4rem 0;
+  margin: auto;
+  line-height: 1.2em;
+}
+
+section h1 {
+  color: #33232a;
+  margin-bottom: 4rem;
+  font-size: 25px;
+}
+
+@media (max-width: 840px) {
+  section h1 {
+    padding: 0 4rem;
+    text-align: center;
+  }
+}
+
+.blocks {
+  display: flex;
+  flex-direction: row;
+  sbackground: green;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin-right: -4rem;
+}
+
+@media (max-width: 840px) {
+  .blocks {
+    justify-content: center;
+  }
+}
+
+.block {
+  display: block;
+  position: relative;
+  width: calc((80rem - 8rem) / 3);
+  height: calc((80rem - 8rem) / 3);
+  box-sizing: border-box;
+  color: #33232a;
+  margin-bottom: 4rem;
+  margin-right: 4rem;
+}
+
+.block--em {
+  padding: 2rem;
+  background-color: #f3c9db;
+  color: #33232a;
+}
+
+a.block--ig {
+  background-size: cover;
+  text-decoration: none;
+  position: relative;
+  border-radius: 2px;
+  transition: transform 0.3s;
+}
+
+a.block.block--ig:hover {
+  transform: scale(1.02);
+}
+
+.blocks--ig-more {
+  width: 100%;
+  margin-right: 0;
+}
+
+.blocks--ig-more a {
+  text-decoration: none;
+  color: #33232a;
+  text-align: center;
+  margin-top: 2rem;
+  width: 100%;
+}
+
+.block--wide {
+  width: calc((80rem - 2rem) / 3 * 2);
+}
+
+@media (max-width: 840px) {
+  .block.block--wide {
+    width: calc(100vw - 4rem);
+    padding: 0 4rem;
+    height: auto;
+  }
+}
+
+.block--loading {
+  display: flex;
+  align-content: center;
+}
+
+.block--loading .loader {
+  margin-top: auto;
+}
+
+@media (min-width: 840px) {
+  .block__scroll-content {
+    overflow-y: scroll;
+    height: 100%;
+    margin-bottom: 3rem;
+  }
+
+  .block__scroll-content *:last-child {
+    margin-bottom: 3rem;
+  }
+
+  .block__scroll-content:after {
+    content: "";
+    position: absolute;
+    background: linear-gradient(0, #fff, transparent);
+    width: 100%;
+    bottom: 0;
+    height: 3rem;
+    width: 100%;
+  }
+}
+
+.block--text {
+  font-size: 1.7rem;
+  line-height: 2rem;
+}
+
+p {
+  margin-bottom: 1.5rem;
+}
+
+strong {
+  font-weight: bold;
+}
+
+.block h1 {
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.block a, .block a:active, .block a:hover, .block a:visited {
+  color: #33232a;
+}
+
+.error {
+  text-align: center;
+  line-height: 1.5em;
+  color: #ccc;
+}

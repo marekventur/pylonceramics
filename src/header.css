@@ -1,0 +1,35 @@
+header {
+  background: #f3c9db;
+}
+
+.header {
+  max-width: 80rem;
+  padding: 0.5rem 0;
+  margin: auto;
+  position: relative;
+}
+
+.logo {
+  background: url("/logo.png") no-repeat;
+  background-position: center center;
+  text-indent: -9999px;
+  height: 7rem;
+  width: 22rem;
+  background-size: contain;
+  display: block;
+  margin: auto;
+}
+
+.links {
+  position: absolute;
+  top: 0;
+  right: 0;
+  
+}
+
+.links a {
+  color: #33232a;
+  line-height: 7rem;
+  padding: 0 5px;
+  font-size: 1.2em;
+}
