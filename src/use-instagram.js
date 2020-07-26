@@ -5,12 +5,7 @@ export const useInstagram = () => {
     useEffect(() => {
       fetch('https://server.marekventur.com/pcig')
         .then(r => r.json())
-        .then(({ user }) => {
-          const posts = user.edge_owner_to_timeline_media.edges.map(d => d.node);
-          setPosts(posts);
-        }, e => {
-          setPosts(e);
-        })  
+        .then(setPosts, setPosts)  
     }, []);
     return posts;
 };

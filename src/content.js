@@ -54,25 +54,16 @@ const InstagramBlocks = () => {
   </>;
 };
 
-const InstagramBlock = ({display_url, shortcode, ...rest}) => {
-  if (!display_url) {
-    return null;
-  }
-  console.log(rest);
-  let caption = "";
-  try {
-
-  } catch (e) {}
-
-  return <a 
-    href={`https://www.instagram.com/p/${shortcode}/`} 
+const InstagramBlock = ({media_url, permalink, caption}) => (
+  <a 
+    href={permalink} 
     className="block block--ig" style={{
-      backgroundImage: `url(${display_url})` 
+      backgroundImage: `url(${media_url})` 
     }}
     target="_blank"
     rel="noopener noreferrer"
   >{caption}</a>
-};
+);
 
 const TextBlock = () => {
   const data = useTextContent();
