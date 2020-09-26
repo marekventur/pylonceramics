@@ -47,7 +47,7 @@ section h1 {
 
 .block--em {
   padding: 2rem;
-  background-color: #f3c9db;
+  background-color: #f9dfea;
   color: #33232a;
 }
 
@@ -147,4 +147,38 @@ strong {
   text-align: center;
   line-height: 1.5em;
   color: #ccc;
+}
+
+.content.content--about-me {
+  display: flex;
+}
+
+.content.content--about-me .picture {
+  background: url("/kat.jpg") no-repeat;
+  background-position: left top;
+  background-size: contain;
+  flex: 1 0 auto;
+  margin-left: 1rem;
+  
+  width: 20%;
+  min-width: 26rem;
+  min-height: 20rem;
+}
+
+.content.content--about-me .text-content {
+  display: block;
+  margin: 0 3rem;
+}
+
+@media (max-width: 600px) {
+  .content.content--about-me {
+    flex-direction: column;
+    padding-top: 2rem;
+  }
+
+  .content.content--about-me .picture {
+    background-position: center top;
+    width: 100%;
+    margin-bottom: 2rem;
+  }
 }

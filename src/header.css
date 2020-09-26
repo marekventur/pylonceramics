@@ -1,5 +1,5 @@
 header {
-  background: #f3c9db;
+  background: #f9dfea;
 }
 
 .header {
@@ -7,29 +7,66 @@ header {
   padding: 0.5rem 0;
   margin: auto;
   position: relative;
+  display: flex;
+}
+
+@media (max-width: 800px) {
+  .header {       
+    margin: 0 1rem;
+  }
 }
 
 .logo {
   background: url("/logo.png") no-repeat;
-  background-position: center center;
+  background-position: left center;
   text-indent: -9999px;
-  height: 7rem;
-  width: 22rem;
+  height: 5rem;
+  width: 12rem;
+  margin-top: 1rem;
   background-size: contain;
-  display: block;
-  margin: auto;
 }
 
 .links {
-  position: absolute;
-  top: 0;
-  right: 0;
-  
+  line-height: 7rem;
+}
+
+.links.links--left {
+  margin-left: 15px;
+}
+
+.links.links--right {
+  flex: 100 1 auto;
+  text-align: right;
+}
+
+.links a.icon {
+  font-size: 1.2em;
+  padding: 0 5px;
 }
 
 .links a {
   color: #33232a;
-  line-height: 7rem;
-  padding: 0 5px;
-  font-size: 1.2em;
+  font-size: 17px;
+  padding: 0 8px;
+  text-decoration: none;
+}
+
+.links a:not(.icon):hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 400px) {
+  .header {       
+    flex-direction: column;
+  }
+  .links {
+    line-height: 5rem;
+  }
+  .logo {
+    width: 100%;
+    background-position: center center;
+  }
+  .links.links--left, .links.links--right {
+    text-align: center;
+  }
 }

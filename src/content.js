@@ -4,13 +4,7 @@ import { useInstagram } from './use-instagram';
 import { Loader } from './loader';
 import { useTextContent } from './use-text-content';
 import { SignupForm } from './signup-form';
-import MarkdownIt from "markdown-it";
-
-const markdown = new MarkdownIt("default", {
-  breaks:       true,        // Convert '\n' in paragraphs into <br>
-  linkify:      true,        // Autoconvert URL-like text to links
-  typographer:  true
-});
+import { markdown } from './markdown';
 
 export function Content() {
 
