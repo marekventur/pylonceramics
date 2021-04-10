@@ -22,7 +22,6 @@ section h1 {
 .blocks {
   display: flex;
   flex-direction: row;
-  sbackground: green;
   justify-content: flex-start;
   flex-wrap: wrap;
   margin-right: -4rem;
@@ -105,7 +104,7 @@ a.block.block--ig:hover {
     margin-bottom: 3rem;
   }
 
-  .block__scroll-content *:last-child {
+  .block__scroll-content *:not(br):last-child {
     margin-bottom: 3rem;
   }
 
@@ -154,7 +153,7 @@ strong {
 }
 
 .content.content--about-me .picture {
-  background: url("/kat.jpg") no-repeat;
+  background: url("./kat.jpg") no-repeat;
   background-position: left top;
   background-size: contain;
   flex: 1 0 auto;

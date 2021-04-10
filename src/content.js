@@ -1,10 +1,9 @@
-import React from 'react';
+import React, { useState, useMemo, useCallback } from 'react';
 import "./content.css";
-import { useInstagram } from './use-instagram';
-import { Loader } from './loader';
-import { useTextContent } from './use-text-content';
 import { SignupForm } from './signup-form';
 import { markdown } from './markdown';
+import { events } from "./content.json";
+import { GraphImages as instagramImages } from "./instagram-data.json";
 
 export function Content() {
 
@@ -22,17 +21,19 @@ export function Content() {
 }
 
 const InstagramBlocks = () => {
-  const posts = useInstagram();
-
-  if (!posts) {
-    return <Loader />;
-  }
-
-  if (posts instanceof Error) {
-    return (<div className="error">
-      Sorry, we couldn't load the images. Please try again later!
-    </div>);
-  }
+  const [maxPosts, setMaxPosts] = useState(Math.min(30, instagramImages.length));
+  const posts = useMemo(() => instagramImages.slice(0, maxPosts).map(image => ({
+    id: image.shortcode,
+    media_url: image.thumbnail_src,
+    permalink: `https://www.instagram.com/p/${image.shortcode}/`,
+    caption: image.tags.join(" "),
+  })), [maxPosts]);
+  const showMore = useCallback((e) => {
+    if (maxPosts < instagramImages.length) {
+      e.preventDefault();
+      setMaxPosts(Math.min(30 + maxPosts, instagramImages.length));
+    }
+  }, [maxPosts]);
 
   return <>
     {posts.map((data) => 
@@ -40,6 +41,7 @@ const InstagramBlocks = () => {
     }
     <div className="blocks blocks--ig-more"> 
       <a 
+        onClick={showMore}
         href="https://www.instagram.com/pylon_ceramics/"
         target="_blank"
         rel="noopener noreferrer"
@@ -60,23 +62,7 @@ const InstagramBlock = ({media_url, permalink, caption}) => (
 );
 
 const TextBlock = () => {
-  const data = useTextContent();
-  if (!data) {
-    return <div className="block block--wide block--loading">
-      <Loader />
-    </div>;
-  }
-
-  if (data instanceof Error || data.length < 0 || data[0].length < 0) {
-    return (<div className="block block--wide">
-      <div className="error">
-        Sorry, we couldn't load this section. Please try again later!
-      </div>
-    </div>);
-  }
-
-  const html = markdown.render(data[0][0]);
-
+  const html = markdown.render(events);
   return <div className="block block--wide block--text">
   <div className="block__scroll-content">
     <span dangerouslySetInnerHTML={{__html: html}} />

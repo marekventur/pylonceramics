@@ -17,7 +17,7 @@ header {
 }
 
 .logo {
-  background: url("/logo.png") no-repeat;
+  background: url("./logo.png") no-repeat;
   background-position: left center;
   text-indent: -9999px;
   height: 5rem;

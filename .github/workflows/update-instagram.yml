@@ -1,0 +1,43 @@
+name: update-instagram
+on:
+  push:
+  schedule:
+    - cron: '0 8 * * *'
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      - uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.7'
+      - name: Install Dependencies
+        run: |
+          pip install -r ./requirements.txt
+      - name: Download
+        run: |
+          instagram-scraper pylon_ceramics -d ./instagram --media-metadata --media-metadata --include-location --latest -t image -m 100
+        env:
+          PYTHONUNBUFFERED: 1
+      - name: Copy
+        run: |
+          cp ./instagram/pylon_ceramics.json ./src/instagram-data.json
+      - name: Deploy
+        uses: EndBug/add-and-commit@v4
+        with:
+          add: 'instagram src/instagram-data.json'
+          author_name: 'Pylon Ceramics'
+          author_email: 'marekventur+pylon-ceramics-instagram@gmail.com'
+          message: 'Update'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
