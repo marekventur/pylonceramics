@@ -10,6 +10,16 @@ jobs:
       - name: Update content
         run: |
           python3 ./scripts/update-content.py
+        
+      - name: Commit updates
+        uses: EndBug/add-and-commit@v4
+        with:
+          add: 'src/content.json'
+          author_name: 'Pylon Ceramics'
+          author_email: 'marekventur+pylon-ceramics-content@gmail.com'
+          message: 'Update'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Install and Build
         run: |
