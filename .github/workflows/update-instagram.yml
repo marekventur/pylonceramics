@@ -26,7 +26,7 @@ jobs:
           pip install -r ./requirements.txt
       - name: Download
         run: |
-          instagram-scraper pylon_ceramics -d ./instagram --media-metadata --media-metadata --include-location --latest -t image -m 100
+          instagram-scraper pylon_ceramics -d ./instagram --media-metadata --media-metadata --include-location --latest -t image -m 100 -u "${{ secrets.IG_USERNAME }}" -p "${{ secrets.IG_PASSWORD }}"
         env:
           PYTHONUNBUFFERED: 1
       - name: Copy
@@ -41,3 +41,4 @@ jobs:
           message: 'Update'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
