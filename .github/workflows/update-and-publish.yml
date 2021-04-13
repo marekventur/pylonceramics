@@ -1,4 +1,4 @@
-name: update-instagram
+name: update-and-publish
 on:
   push:
   schedule:
@@ -29,10 +29,15 @@ jobs:
           instagram-scraper pylon_ceramics -d ./instagram --media-metadata --media-metadata --include-location --latest -t image -m 100 -u "${{ secrets.IG_USERNAME }}" -p "${{ secrets.IG_PASSWORD }}"
         env:
           PYTHONUNBUFFERED: 1
-      - name: Copy
+      - name: Update Instagram data
         run: |
           cp ./instagram/pylon_ceramics.json ./src/instagram-data.json
-      - name: Deploy
+
+      - name: Update markdown content
+        run: |
+          python3 ./scripts/update-content.py
+        
+      - name: Commit changes
         uses: EndBug/add-and-commit@v4
         with:
           add: 'instagram src/instagram-data.json'
@@ -41,4 +46,14 @@ jobs:
           message: 'Update'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Install and Build
+        run: |
+          npm install
+          npm run build
 
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.1
+        with:
+          branch: gh-pages
+          folder: build
