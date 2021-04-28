@@ -24,9 +24,9 @@ West Handyside Canopy, Kings Cross, N1C 4BH
 [Local Makers Market - Wanstead](https://www.facebook.com/events/900877283996864), 
 Christ Church Hall, Wanstead, E11 2SW
 
-**18-19th September 2021**
-[Independent Ceramics Market - part of London Design Festival 2021](https://www.facebook.com/events/408896936989270)
-Rich Mix, 35 - 47 Bethnal Green Road, Shoreditch, E1 6LA
+**18th September 2021**
+[Independent Ceramics Market](https://www.facebook.com/events/408896936989270)
+Truman's Socail Club, 1 Priestley Way, Blackhorse Road, E17 6AL
 
 **11th December 2021**
 [Independent Ceramics Market - Rich Mix](https://www.facebook.com/events/1178198856336768)
