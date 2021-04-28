@@ -1,9 +1,5 @@
 Find me at these events: 
 
-**16-18th April 2021**
-[Canopy Market - Kings Cross](https://canopymarket.co.uk/)
-West Handyside Canopy, Kings Cross, N1C 4BH
-
 **30th April - 3rd May 2021**
 [Canopy Market - Kings Cross](https://canopymarket.co.uk/)
 West Handyside Canopy, Kings Cross, N1C 4BH
