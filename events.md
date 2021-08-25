@@ -14,11 +14,11 @@ Truman's Socail Club, 1 Priestley Way, Blackhorse Road, E17 6AL
 
 **25th September 2021**
 [Local Makers Market - Stoke Newington](http://www.localmakers.uk), 
-Abney Hall, 73A Stoke Newington Church Street, Stoke Newington, N16 0AS
+Abney Hall, Stoke Newington Church Street, N16 0AS
 
 **27th November2021**
 [Local Makers Market - Stoke Newington](http://www.localmakers.uk), 
-Abney Hall, 73A Stoke Newington Church Street, Stoke Newington, N16 0AS
+Abney Hall, Stoke Newington Church Street, N16 0AS
 
 **12th December 2021**
 [Independent Ceramics Market - Rich Mix](https://www.facebook.com/events/596671484457666/),
