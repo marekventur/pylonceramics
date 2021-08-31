@@ -18,4 +18,4 @@ Abney Hall, Stoke Newington Church Street, N16 0AS
 
 **12th December 2021**
 [Independent Ceramics Market - Rich Mix](https://www.facebook.com/events/596671484457666/),
-Truman's Socail Club, 1 Priestley Way, Blackhorse Road, E17 6AL
+Truman's Socail Club, 1 Priestley Way, Blackhorse Road, E17 6AL 
