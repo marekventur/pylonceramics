@@ -1,9 +1,5 @@
 Find me at these events: 
 
-**27-30th August 2021**
-[Canopy Market - Kings Cross](https://canopymarket.co.uk/)
-West Handyside Canopy (outside Waitrose), Kings Cross, N1C 4BH
-
 **4th September 2021** 
 [Local Makers Market - Wanstead](http://www.localmakers.uk), 
 Christ Church Hall, Wanstead, E11 2SW
