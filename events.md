@@ -1,6 +1,6 @@
 Find me at these events: 
 
-**4th September 2021** 
+**4th September 2021**
 [Local Makers Market - Wanstead](http://www.localmakers.uk), 
 Christ Church Hall, Wanstead, E11 2SW
 
