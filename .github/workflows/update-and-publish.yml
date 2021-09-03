@@ -26,7 +26,7 @@ jobs:
           pip install -r ./requirements.txt
       - name: Download
         run: |
-          instagram-scraper pylon_ceramics -d ./instagram --media-metadata --media-metadata --include-location --latest -t image -m 100 --login-user "${{ secrets.IG_USERNAME }}" -login-pass "${{ secrets.IG_PASSWORD }}"
+          instagram-scraper pylon_ceramics -d ./instagram --media-metadata --media-metadata --include-location --latest -t image -m 100 --login-user "${{ secrets.IG_USERNAME }}" --login-pass "${{ secrets.IG_PASSWORD }}"
         env:
           PYTHONUNBUFFERED: 1
       - name: Update Instagram data
