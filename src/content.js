@@ -26,7 +26,7 @@ const InstagramBlocks = () => {
     id: image.shortcode,
     media_url: image.local,
     permalink: `https://www.instagram.com/p/${image.shortcode}/`,
-    caption: image.accessibility_caption,
+    caption: image.edge_media_to_caption?.edges?.[0]?.node?.text ?? image.accessibility_caption,
   })), [maxPosts]);
   const showMore = useCallback((e) => {
     if (maxPosts < instagramImages.length) {
