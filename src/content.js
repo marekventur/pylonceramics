@@ -3,7 +3,7 @@ import "./content.css";
 import { SignupForm } from './signup-form';
 import { markdown } from './markdown';
 import { events } from "./content.json";
-import { GraphImages as instagramImages } from "./instagram-data.json";
+import instagramImages from "./instagram-data.json";
 
 export function Content() {
 
@@ -21,12 +21,13 @@ export function Content() {
 }
 
 const InstagramBlocks = () => {
+  console.log(instagramImages)
   const [maxPosts, setMaxPosts] = useState(Math.min(30, instagramImages.length));
   const posts = useMemo(() => instagramImages.slice(0, maxPosts).map(image => ({
     id: image.shortcode,
-    media_url: image.thumbnail_src,
+    media_url: image.local,
     permalink: `https://www.instagram.com/p/${image.shortcode}/`,
-    caption: image.tags.join(" "),
+    caption: image.accessibility_caption,
   })), [maxPosts]);
   const showMore = useCallback((e) => {
     if (maxPosts < instagramImages.length) {

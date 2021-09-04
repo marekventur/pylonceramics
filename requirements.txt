@@ -1,1 +1,1 @@
-instagram-scraper
+instaloader
