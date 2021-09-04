@@ -21,7 +21,6 @@ export function Content() {
 }
 
 const InstagramBlocks = () => {
-  console.log(instagramImages)
   const [maxPosts, setMaxPosts] = useState(Math.min(30, instagramImages.length));
   const posts = useMemo(() => instagramImages.slice(0, maxPosts).map(image => ({
     id: image.shortcode,
