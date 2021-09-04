@@ -1,1 +1,1 @@
-instaloader
+git+https://github.com/restyler/instaloader.git
