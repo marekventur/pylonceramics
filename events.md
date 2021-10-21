@@ -1,6 +1,6 @@
 Find me at these events: 
 
-**5-7th November 2021**
+**5th - 7th November 2021**
 [Canopy Market](https://canopymarket.co.uk),
 outside Waitrose, West Handyside Canopy, N1C 4BH
 
@@ -16,6 +16,6 @@ The Department Store, 248 Ferndale Road, Brixton, SW9 8FR
 [Canopy Market](https://canopymarket.co.uk),
 outside Waitrose, West Handyside Canopy, N1C 4BH
 
-**17-13th December**
+**17th - 13th December**
 [Canopy Market](https://canopymarket.co.uk),
 outside Waitrose, West Handyside Canopy, N1C 4BH
