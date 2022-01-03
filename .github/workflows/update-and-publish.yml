@@ -26,12 +26,12 @@ jobs:
           pip install -r ./requirements.txt
       - name: Download
         run: |
-          instaloader pylon_ceramics --no-videos --fast-update --no-profile-pic --rapidapi-key="${{ secrets.RAPIDAPI_KEY }}" --dirname-pattern=instagram
+          instaloader pylon_ceramics --no-videos --fast-update --no-profile-pic  --dirname-pattern=instagram
         env:
           PYTHONUNBUFFERED: 1
       - name: Update Instagram data
         run: |
-          ./scripts/update-instagram.py
+          ./scripts/update-instagram.py ${{ secrets.RAPIDAPI_KEY }}
 
       - name: Update markdown content
         run: |
