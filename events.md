@@ -1,9 +1,5 @@
 Find me at these events: 
 
-**19th-20th February 2022**
-[Canopy Market](https://canopymarket.co.uk),
-outside Waitrose, West Handyside Canopy, N1C 4BH
-
 **4th-6th March 2022**
 [Canopy Market](https://canopymarket.co.uk),
 outside Waitrose, West Handyside Canopy, N1C 4BH
