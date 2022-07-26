@@ -1,22 +1,14 @@
 Find me at these events: 
 
-**2nd July 2022**
-SPACE Studios Open Day
-Arch 35, Timber Wharf, Ermine Mews, E2 8BF
+**13th-14th August 2022**
+[Greenwich Peninsula Market](https://www.greenwichpeninsula.co.uk/whats-on/events/greenwich-peninsula-market)
+Peninsula Square, North Greenwich, SE10 0ES
 
-**15th-17th July 2022**
+**2nd-4th September 2022**
 [Canopy Market](https://canopymarket.co.uk),
 outside Waitrose, West Handyside Canopy, N1C 4BH
 
-**5th-7th August 2022**
-[Canopy Market](https://canopymarket.co.uk),
-outside Waitrose, West Handyside Canopy, N1C 4BH
-
-**2nd-4th September**
-[Canopy Market](https://canopymarket.co.uk),
-outside Waitrose, West Handyside Canopy, N1C 4BH
-
-**16th-18th September**
+**16th-18th September 2022**
 [Canopy Market](https://canopymarket.co.uk),
 outside Waitrose, West Handyside Canopy, N1C 4BH
 
