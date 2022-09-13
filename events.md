@@ -1,9 +1,8 @@
 Find me at these events: 
 
-**CANCELLED**
-~~**16th-18th September 2022**
+**16th-18th September 2022**
 [Canopy Market](https://canopymarket.co.uk),
-outside Waitrose, West Handyside Canopy, N1C 4BH~~ 
+outside Waitrose, West Handyside Canopy, N1C 4BH
 
 **8th-9th October 2022**
 [Greenwich Peninsula Market](https://www.greenwichpeninsula.co.uk/whats-on/events/greenwich-peninsula-market)
