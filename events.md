@@ -4,7 +4,7 @@ Find me at these events:
 [Greenwich Peninsula Market](https://www.realfoodfestival.co.uk/our_work/greenwich-peninsula-market/)
 Greenwich Peninsula, [SE10 0ES](https://goo.gl/maps/2Fm5hK7VKBgZA8wBA), outside North Greenwich station
 
-**27th November 2022**
+**26th November 2022**
 [The Big Market](https://www.instagram.com/thebigmarketlondon/)
 Peckham Levels, 95A Rye Lane, London, [SE15 4ST](https://goo.gl/maps/TizmuAexsSfMwHKo7)
 
