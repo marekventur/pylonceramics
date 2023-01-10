@@ -1,10 +1,10 @@
 Find me at these events: 
 
-**17th February 2023**
+**18th February 2023**
 [Independent Ceramics Market](https://www.facebook.com/events/535028664906858)
 Unit 8, Copeland Park, Peckham, [SE15 3SN](https://goo.gl/maps/tEmTvFwMsj6TaF1y5)
 
-**18th February 2023**
+**19th February 2023**
 [Grown & Thrown - Plants & Ceramics Market](https://www.facebook.com/events/319008952315517)
 Unit 8, Copeland Park, Peckham, [SE15 3SN](https://goo.gl/maps/tEmTvFwMsj6TaF1y5)
 
