@@ -1,5 +1,21 @@
 Find me at these events: 
 
+**31th March - 1st April 2023 - FRIDAY + SATURDAY only**
+[Canopy Market](https://canopymarket.co.uk)
+West Handyside Canopy, 2 Granary Square, Kings Cross, [N1C 4BH](https://goo.gl/maps/NxaPYgzJYQFjHLCG9)
+
+**14th - 16th April 2023**
+[Canopy Market](https://canopymarket.co.uk)
+West Handyside Canopy, 2 Granary Square, Kings Cross, [N1C 4BH](https://goo.gl/maps/NxaPYgzJYQFjHLCG9)
+
+**12th - 14th May 2023**
+[Canopy Market](https://canopymarket.co.uk)
+West Handyside Canopy, 2 Granary Square, Kings Cross, [N1C 4BH](https://goo.gl/maps/NxaPYgzJYQFjHLCG9)
+
+**2nd - 4th June 2023**
+[Canopy Market](https://canopymarket.co.uk)
+West Handyside Canopy, 2 Granary Square, Kings Cross, [N1C 4BH](https://goo.gl/maps/NxaPYgzJYQFjHLCG9)
+
 **25th June 2023**
 [Independent Ceramics Market](https://www.facebook.com/events/1478164259268692)
 Big Penny Social, 1 Priestley Way, Walthamstow, [E17 6AL](https://goo.gl/maps/HZtRSXbc3DhJmKWn8)
