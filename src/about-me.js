@@ -1,7 +1,9 @@
 import React from 'react';
 import "./content.css";
 import { markdown } from './markdown';
-import { aboutMe } from './content.json';
+import content from './content.json';
+
+const { aboutMe } = content;
 
 export function AboutMe() {
   return (

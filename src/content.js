@@ -2,9 +2,10 @@ import React, { useState, useMemo, useCallback } from 'react';
 import "./content.css";
 import { SignupForm } from './signup-form';
 import { markdown } from './markdown';
-import { events } from "./content.json";
+import content from "./content.json";
 import instagramImages from "./instagram-data.json";
 
+const { events } = content;
 export function Content() {
 
   return (
