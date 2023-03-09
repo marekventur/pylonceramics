@@ -1,6 +1,6 @@
 Find me at these events: 
 
-**31th March - 1st April 2023 - FRIDAY + SATURDAY only**
+**31th March - 1st April 2023  !!! Friday + Saturday ONLY !!!**
 [Canopy Market](https://canopymarket.co.uk)
 West Handyside Canopy, 2 Granary Square, Kings Cross, [N1C 4BH](https://goo.gl/maps/NxaPYgzJYQFjHLCG9)
 
