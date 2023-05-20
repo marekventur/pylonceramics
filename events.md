@@ -1,13 +1,5 @@
 Find me at these events: 
 
-**14th - 16th April 2023**
-[Canopy Market](https://canopymarket.co.uk)
-West Handyside Canopy, 2 Granary Square, Kings Cross, [N1C 4BH](https://goo.gl/maps/NxaPYgzJYQFjHLCG9)
-
-**12th - 14th May 2023**
-[Canopy Market](https://canopymarket.co.uk)
-West Handyside Canopy, 2 Granary Square, Kings Cross, [N1C 4BH](https://goo.gl/maps/NxaPYgzJYQFjHLCG9)
-
 **2nd - 4th June 2023**
 [Canopy Market](https://canopymarket.co.uk)
 West Handyside Canopy, 2 Granary Square, Kings Cross, [N1C 4BH](https://goo.gl/maps/NxaPYgzJYQFjHLCG9)
