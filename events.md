@@ -8,6 +8,10 @@ West Handyside Canopy, 2 Granary Square, Kings Cross, [N1C 4BH](https://goo.gl/m
 [Independent Ceramics Market](https://www.facebook.com/events/1478164259268692)
 Big Penny Social, 1 Priestley Way, Walthamstow, [E17 6AL](https://goo.gl/maps/HZtRSXbc3DhJmKWn8)
 
+**7th - 9th July 2023**
+[Canopy Market](https://canopymarket.co.uk)
+West Handyside Canopy, 2 Granary Square, Kings Cross, [N1C 4BH](https://goo.gl/maps/NxaPYgzJYQFjHLCG9)
+
 **18th - 20th August 2023**
 [Canopy Market](https://canopymarket.co.uk)
 West Handyside Canopy, 2 Granary Square, Kings Cross, [N1C 4BH](https://goo.gl/maps/NxaPYgzJYQFjHLCG9)
