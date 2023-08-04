@@ -1,8 +1,8 @@
 Find me at these events: 
 
-**7th - 9th July 2023**
-[Canopy Market](https://canopymarket.co.uk)
-West Handyside Canopy, 2 Granary Square, Kings Cross, [N1C 4BH](https://goo.gl/maps/NxaPYgzJYQFjHLCG9)
+**6th August 2023**
+[The Big Market](https://www.foxfirkin.com/whats-on-listings/the-big-market)
+The Fox and Firkin, 316 Lewisham High St, Lewisham, [SE13 6JZ](https://goo.gl/maps/vRtdUH6nKQGRDyo89)
 
 **18th - 20th August 2023**
 [Canopy Market](https://canopymarket.co.uk)
