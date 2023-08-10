@@ -1,8 +1,4 @@
-Find me at these events: 
-
-**6th August 2023**
-[The Big Market](https://www.foxfirkin.com/whats-on-listings/the-big-market)
-The Fox and Firkin, 316 Lewisham High St, Lewisham, [SE13 6JZ](https://goo.gl/maps/vRtdUH6nKQGRDyo89)
+Find me at these events:
 
 **18th - 20th August 2023**
 [Canopy Market](https://canopymarket.co.uk)
