@@ -4,6 +4,10 @@ Find me at these events:
 [Canopy Market - Kings Cross](https://canopymarket.co.uk)
 West Handyside Canopy, off Granay Square, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
 
+**30th March 2024**
+[North London Makers' Market](https://n4makersmarket.co.uk/events/-pop-up-signature-brew-taproom-haggerston-e8-2024-mar)
+Signature Brew Haggerston, 340 Acton Mews, [E8 4EA](https://maps.app.goo.gl/JoR8o5WrUnbr6PDG7)
+
 **5th - 7th April 2024**
 [Canopy Market - Kings Cross](https://canopymarket.co.uk)
 West Handyside Canopy, off Granay Square, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
