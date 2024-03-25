@@ -1,9 +1,5 @@
 Find me at these events:
 
-**8th - 10th March 2024**
-[Canopy Market - Kings Cross](https://canopymarket.co.uk)
-West Handyside Canopy, off Granay Square, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
-
 **30th March 2024**
 [North London Makers' Market](https://n4makersmarket.co.uk/events/-pop-up-signature-brew-taproom-haggerston-e8-2024-mar)
 Signature Brew Haggerston, 340 Acton Mews, [E8 4EA](https://maps.app.goo.gl/JoR8o5WrUnbr6PDG7)
@@ -19,6 +15,10 @@ West Handyside Canopy, off Granay Square, [N1C 4BH](https://maps.app.goo.gl/f5nJ
 **10th -12th May 2024**
 [Canopy Market - Kings Cross](https://canopymarket.co.uk)
 West Handyside Canopy, off Granay Square, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
+
+**19th May 2024**
+[Greenwith Urban Village Fete](https://www.hemingwaydesign.co.uk/projects/urban-village-fete/)
+Central Park,Greenwich Peninsula, North Greenwith [SE10 0BN](https://maps.app.goo.gl/zirH9WwLubex8owD8)
 
 **2nd June 2024**
 [SoLo Craft Fair South Bank Summer Market](http://www.solocraftfair.com/upcoming-events-1/2024/5/12/south-bank-summer-market-w59tw)
