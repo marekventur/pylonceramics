@@ -1,9 +1,5 @@
 Find me at these events:
 
-**26th - 28th April 2024**
-[Canopy Market - Kings Cross](https://canopymarket.co.uk)
-West Handyside Canopy, off Granay Square, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
-
 **10th -12th May 2024**
 [Canopy Market - Kings Cross](https://canopymarket.co.uk)
 West Handyside Canopy, off Granay Square, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
