@@ -6,7 +6,7 @@ West Handyside Canopy, off Granay Square, [N1C 4BH](https://maps.app.goo.gl/f5nJ
 
 **19th May 2024**
 [Greenwith Urban Village Fete](https://www.hemingwaydesign.co.uk/projects/urban-village-fete/)
-Central Park,Greenwich Peninsula, North Greenwith [SE10 0BN](https://maps.app.goo.gl/zirH9WwLubex8owD8)
+Central Park,Greenwich Peninsula, North Greenwich [SE10 0BN](https://maps.app.goo.gl/zirH9WwLubex8owD8)
 
 **2nd June 2024**
 [SoLo Craft Fair South Bank Summer Market](http://www.solocraftfair.com/upcoming-events-1/2024/5/12/south-bank-summer-market-w59tw)
