@@ -1,9 +1,5 @@
 Find me at these events:
 
-**10th -12th May 2024**
-[Canopy Market - Kings Cross](https://canopymarket.co.uk)
-West Handyside Canopy, off Granay Square, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
-
 **19th May 2024**
 [Greenwith Urban Village Fete](https://www.hemingwaydesign.co.uk/projects/urban-village-fete/)
 Central Park,Greenwich Peninsula, North Greenwich [SE10 0BN](https://maps.app.goo.gl/zirH9WwLubex8owD8)
