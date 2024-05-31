@@ -15,3 +15,11 @@ Abney Public Hall, 73A Stoke Newington Church St, [N16 0AS](https://maps.app.goo
 **2nd - 4th August 2024**
 [Canopy Market - Kings Cross](https://canopymarket.co.uk)
 West Handyside Canopy, off Granay Square, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
+
+**16th - 18th August 2024**
+[Canopy Market - Kings Cross](https://canopymarket.co.uk)
+West Handyside Canopy, off Granay Square, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
+
+**6th - 8th September 2024**
+[Canopy Market - Kings Cross](https://canopymarket.co.uk)
+West Handyside Canopy, off Granay Square, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
