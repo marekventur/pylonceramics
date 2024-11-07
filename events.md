@@ -1,8 +1,4 @@
-Find me at these events:
-
-**2nd Novenber 2024**
-[The Creative Side of London](https://thecreativesideoflondon.com)
-The Hub, 18A Orford Rd, Walthamstow, [E17 9LN](https://maps.app.goo.gl/5G4ehUMbC5Hj8Hj3A)
+**Find me at these events:**
 
 **9th November 2024**
 [Margate Ceramics Market](https://www.instagram.com/margateceramicsmarket/)
