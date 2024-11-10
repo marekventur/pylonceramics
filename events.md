@@ -1,9 +1,5 @@
 **Find me at these events:**
 
-**9th November 2024**
-[Margate Ceramics Market](https://www.instagram.com/margateceramicsmarket/)
-Turner Contemporary, Margate, [CT9 1HG](https://maps.app.goo.gl/7NZeXbBh3CWk3x9R6)
-
 **15th - 17th November 2024**
 [Canopy Market - Kings Cross](https://canopymarket.co.uk)
 West Handyside Canopy, off Granay Square, Kings Cross, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
