@@ -18,7 +18,7 @@ Hackney Depot, 5 Sheep Lane, Hackney [E8 4QS](https://maps.app.goo.gl/J2vNgNPowd
 
 **22nd - 23rd March**
 [Elephant Park Market](https://elephantparkmarket.co.uk)
-The Tree House, Elephant Park, Elephant&Castle, [SE17 1HL](https://maps.app.goo.gl/Tt1VoZFkVvoDkCQH8)
+The Tree House, Elephant Park, Elephant & Castle, [SE17 1HL](https://maps.app.goo.gl/Tt1VoZFkVvoDkCQH8)
 
 **11th-13th April**
 [Canopy Market - Kings Cross](https://canopymarket.co.uk)
