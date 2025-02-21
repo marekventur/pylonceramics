@@ -11,7 +11,7 @@ export function Content() {
   return (
     <section className="content">
       <h1>Handmade pottery inspired by Hackney Marshes</h1>
-      
+
       <div className="blocks">
         <SignupForm />
         <TextBlock />
@@ -23,12 +23,7 @@ export function Content() {
 
 const InstagramBlocks = () => {
   const [maxPosts, setMaxPosts] = useState(Math.min(30, instagramImages.length));
-  const posts = useMemo(() => instagramImages.slice(0, maxPosts).map(image => ({
-    id: image.shortcode,
-    media_url: image.local,
-    permalink: `https://www.instagram.com/p/${image.shortcode}/`,
-    caption: image.edge_media_to_caption?.edges?.[0]?.node?.text ?? image.accessibility_caption,
-  })), [maxPosts]);
+  const posts = useMemo(() => instagramImages.slice(0, maxPosts), [maxPosts]);
   const showMore = useCallback((e) => {
     if (maxPosts < instagramImages.length) {
       e.preventDefault();
@@ -37,11 +32,11 @@ const InstagramBlocks = () => {
   }, [maxPosts]);
 
   return <>
-    {posts.map((data) => 
+    {posts.map((data) =>
       <InstagramBlock key={data.id} {...data} />)
     }
-    <div className="blocks blocks--ig-more"> 
-      <a 
+    <div className="blocks blocks--ig-more">
+      <a
         onClick={showMore}
         href="https://www.instagram.com/pylon_ceramics/"
         target="_blank"
@@ -51,11 +46,11 @@ const InstagramBlocks = () => {
   </>;
 };
 
-const InstagramBlock = ({media_url, permalink, caption}) => (
-  <a 
-    href={permalink} 
+const InstagramBlock = ({ media_url, permalink, caption }) => (
+  <a
+    href={permalink}
     className="block block--ig" style={{
-      backgroundImage: `url(${media_url})` 
+      backgroundImage: `url(${media_url})`
     }}
     target="_blank"
     rel="noopener noreferrer"
@@ -65,8 +60,8 @@ const InstagramBlock = ({media_url, permalink, caption}) => (
 const TextBlock = () => {
   const html = markdown.render(events);
   return <div className="block block--wide block--text">
-  <div className="block__scroll-content">
-    <span dangerouslySetInnerHTML={{__html: html}} />
+    <div className="block__scroll-content">
+      <span dangerouslySetInnerHTML={{ __html: html }} />
+    </div>
   </div>
-</div>
 }
