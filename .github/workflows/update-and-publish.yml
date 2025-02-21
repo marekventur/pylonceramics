@@ -29,7 +29,7 @@ jobs:
           pip install -r ./requirements.txt
       - name: Download
         run: |
-          instaloader pylon_ceramics --no-videos --fast-update --no-profile-pic  --dirname-pattern=instagram
+          ./scripts/download-instagram.py ${{ secrets.RAPIDAPI_KEY }}
         env:
           PYTHONUNBUFFERED: 1
       - name: Update Instagram data
