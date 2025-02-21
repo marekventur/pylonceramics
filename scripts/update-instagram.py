@@ -4,6 +4,7 @@ from os import listdir
 import lzma
 from shutil import copy
 import requests
+import os
 
 # Read Instagram data file
 with open('instagram-data.json', 'r') as f:
