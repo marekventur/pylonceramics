@@ -43,7 +43,7 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v4
         with:
-          add: 'public src/instagram-data.json'
+          add: 'public src/instagram-data.json src/content.json'
           author_name: 'Pylon Ceramics'
           author_email: 'marekventur+pylon-ceramics-instagram@gmail.com'
           message: 'Update'
