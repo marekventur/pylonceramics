@@ -42,8 +42,8 @@ for post in merged_posts:
     if (image_url.startswith('https:')):
         print ('downloading image %s' % image_url)
         response = requests.get(image_url)
-        file = f'public/instagram/{post["id"]}.jpg'
-        with open(file, 'wb') as f:
+        file = f'instagram/{post["id"]}.jpg'
+        with open('public/' + file, 'wb') as f:
             f.write(response.content)
         post['media_url'] = file
         
