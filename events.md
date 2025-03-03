@@ -26,7 +26,7 @@ West Handyside Canopy, off Granary Square, Kings Cross, [N1C 4BH](https://maps.a
 
 **26th - 27th April**
 [Elephant Park Market](https://elephantparkmarket.co.uk)
-Elephant Park, Sayer Street, Elephant & Castel, [SE17 1HL](https://maps.app.goo.gl/neJTDn3FdLsX977n7)
+Elephant Park, Sayer Street, Elephant & Castle, [SE17 1HL](https://maps.app.goo.gl/neJTDn3FdLsX977n7)
 
 **9th-11th May**
 [Canopy Market - Kings Cross](https://canopymarket.co.uk)
@@ -42,5 +42,5 @@ West Handyside Canopy, off Granary Square, Kings Cross, [N1C 4BH](https://maps.a
 
 **28th - 29th June**
 [Elephant Park Market](https://elephantparkmarket.co.uk)
-Elephant Park, Sayer Street, Elephant & Castel, [SE17 1HL](https://maps.app.goo.gl/neJTDn3FdLsX977n7)
+Elephant Park, Sayer Street, Elephant & Castle, [SE17 1HL](https://maps.app.goo.gl/neJTDn3FdLsX977n7)
 
