@@ -18,7 +18,7 @@ The Tree House, Elephant Park, Elephant & Castle, [SE17 1HL](https://maps.app.go
 
 **23rd March**
 [East End Trades Guild Pop-Up at Turning Earth Spring Market](https://www.turningearth.org/events)
-Turning Earth Hoxton, Railway Arches 361-362, Whiston Road,[E2 8BW](https://maps.app.goo.gl/MqZ6NTERmgX26bBm9)
+Turning Earth Hoxton, Railway Arches 361-362, Whiston Road, [E2 8BW](https://maps.app.goo.gl/MqZ6NTERmgX26bBm9)
 
 **11th-13th April**
 [Canopy Market - Kings Cross](https://canopymarket.co.uk)
