@@ -5,7 +5,7 @@
 St Martin-in-the-Fields, Trafalgar Square, [WC2N 4JJ](https://maps.app.goo.gl/WzuNs7wHBUVyWSeJ8)
 
 **14th - 16th March**
-[Canopy Market - Kings Cross](https://canopymarket.co.uk)
+[Canopy Market](https://canopymarket.co.uk)
 West Handyside Canopy, off Granary Square, Kings Cross, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
 
 **16th March**
@@ -21,7 +21,7 @@ The Tree House, Elephant Park, Elephant & Castle, [SE17 1HL](https://maps.app.go
 Turning Earth Hoxton, Railway Arches 361-362, Whiston Road, [E2 8BW](https://maps.app.goo.gl/MqZ6NTERmgX26bBm9)
 
 **11th-13th April**
-[Canopy Market - Kings Cross](https://canopymarket.co.uk)
+[Canopy Market](https://canopymarket.co.uk)
 West Handyside Canopy, off Granary Square, Kings Cross, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
 
 **26th - 27th April**
@@ -29,7 +29,7 @@ West Handyside Canopy, off Granary Square, Kings Cross, [N1C 4BH](https://maps.a
 Elephant Park, Sayer Street, Elephant & Castle, [SE17 1HL](https://maps.app.goo.gl/neJTDn3FdLsX977n7)
 
 **9th-11th May**
-[Canopy Market - Kings Cross](https://canopymarket.co.uk)
+[Canopy Market](https://canopymarket.co.uk)
 West Handyside Canopy, off Granary Square, Kings Cross, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
 
 **18th May**
@@ -37,7 +37,7 @@ West Handyside Canopy, off Granary Square, Kings Cross, [N1C 4BH](https://maps.a
 Peninsula Square, Greenwich Peninsula, North Greenwich, [SE10 0ES](https://maps.app.goo.gl/nrM5WgWbYyW1YacC8)
 
 **6th-8th June**
-[Canopy Market - Kings Cross](https://canopymarket.co.uk)
+[Canopy Market](https://canopymarket.co.uk)
 West Handyside Canopy, off Granary Square, Kings Cross, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
 
 **28th - 29th June**
