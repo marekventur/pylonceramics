@@ -1,9 +1,5 @@
 **Find me at these events:**
 
-**11th-13th April**
-[Canopy Market](https://canopymarket.co.uk)
-West Handyside Canopy, off Granary Square, Kings Cross, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
-
 **26th - 27th April**
 [Elephant Park Market](https://elephantparkmarket.co.uk)
 Elephant Park, Sayer Street, Elephant & Castle, [SE17 1HL](https://maps.app.goo.gl/neJTDn3FdLsX977n7)
