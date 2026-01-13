@@ -1,10 +1,17 @@
 **Find me at these events:**
 
-**5th - 7th December**
-[Handmade in Highgate](https://www.instagram.com/handmadeinhighgate/)
-Highgate Literary and Scientific Institution, 11 South Grove, [N6 6BS](https://maps.app.goo.gl/3ekZf74ZXGmAZCiC8)
+**30th January - 1st February**
+[Canopy Market](https://canopymarket.co.uk)
+West Handyside Canopy, off Granary Square, Kings Cross, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
 
-**12th - 14th December**
-**16th - 18th December**
+**27th February - 1st March**
+[Canopy Market](https://canopymarket.co.uk)
+West Handyside Canopy, off Granary Square, Kings Cross, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
+
+**13th March - 15th March**
+[Canopy Market](https://canopymarket.co.uk)
+West Handyside Canopy, off Granary Square, Kings Cross, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
+
+**27th March - 29th March**
 [Canopy Market](https://canopymarket.co.uk)
 West Handyside Canopy, off Granary Square, Kings Cross, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
