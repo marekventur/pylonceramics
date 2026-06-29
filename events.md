@@ -1,17 +1,13 @@
 **Find me at these events:**
 
-**27th March - 29th March**
+**3rd - 5th July**
 [Canopy Market](https://canopymarket.co.uk)
 West Handyside Canopy, off Granary Square, Kings Cross, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
 
-**17th -19th April**
+**17th - 19th July**
 [Canopy Market](https://canopymarket.co.uk)
 West Handyside Canopy, off Granary Square, Kings Cross, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
 
-**8th - 10th May**
-[Canopy Market](https://canopymarket.co.uk)
-West Handyside Canopy, off Granary Square, Kings Cross, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
-
-**5th - 7th June**
+**28th - 31st August**
 [Canopy Market](https://canopymarket.co.uk)
 West Handyside Canopy, off Granary Square, Kings Cross, [N1C 4BH](https://maps.app.goo.gl/f5nJ5KAdtoPUWQJW7)
